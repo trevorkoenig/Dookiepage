@@ -1,0 +1,11 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(61,28,28);
+  }
+  p {
+    color: darkolivegreen;
+    padding: 25px;
+    border: 2px solid green;
+  }
